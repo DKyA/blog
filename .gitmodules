@@ -1,0 +1,8 @@
+[submodule "testing-blog/testblog.github.io"]
+	path = testing-blog/testblog.github.io
+	url = https://github.com/DKyA/testblog.github.io.git
+	branch = main
+[submodule "testing-blog/public"]
+	path = testing-blog/public
+	url = https://github.com/DKyA/testblog.github.io.git
+	branch = main
